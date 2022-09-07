@@ -1,0 +1,14 @@
+.container {
+    margin: 5px;
+}
+h1 {
+    color: blue;
+}
+
+#sixth img{
+    width: 300px;
+    height: 300px;
+}
+#fifth p{
+    font-size: 1.3em ;
+}
