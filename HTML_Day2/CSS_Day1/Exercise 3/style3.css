@@ -1,0 +1,11 @@
+body{
+    font-family:'arial';
+    background-color: lightgray;
+}
+h1 {
+    background-color: darkgray;
+    color: black;
+}
+h6 {
+    font-size: 11px;
+}
